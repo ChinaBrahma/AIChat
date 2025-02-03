@@ -30,7 +30,6 @@ This project is an AI-powered chat application that leverages machine learning t
     ```bash
     npm start
     ```
-2. Open your browser and navigate to `http://localhost:3000`.
 
 
 
