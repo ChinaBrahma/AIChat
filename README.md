@@ -28,7 +28,7 @@ This project is an AI-powered chat application that leverages machine learning t
 
 1. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 
 
