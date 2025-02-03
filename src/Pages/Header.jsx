@@ -2,8 +2,8 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <div>
-            Welcome To AI_CHAT
+        <div className='flex justify-center bg-black text-white'>
+            Experimental Gemini API implementation
         </div>
     );
 };

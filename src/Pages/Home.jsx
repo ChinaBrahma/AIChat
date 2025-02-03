@@ -5,11 +5,11 @@ import Output from '../components/Output';
 
 const Home = () => {
     return (
-        <div>
+        <>
             <Header />
             <Output />
             <Search />
-        </div>
+        </>
     );
 };
 
