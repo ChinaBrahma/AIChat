@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Output = ({ chats }) => {
+  
   return (
     <div className="space-y-4">
       {chats && chats.map((chat, index) => (
